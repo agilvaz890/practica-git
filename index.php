@@ -1,1 +1,1 @@
-<?php echo 'Esto es una página de prueba.'; ?>
+<?php echo 'Esto se ha modificado directamente desde GitHub.'; ?>

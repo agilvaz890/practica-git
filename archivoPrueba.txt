@@ -1,2 +1,1 @@
-Modifico el archivo de la rama cali.
-Modificación nueva.
+Prueba conflicto.
